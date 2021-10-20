@@ -1,0 +1,1 @@
+find . -type f | wc -l && find . -type d | wc -l && find . -type f | tee sorted.txt

@@ -1,0 +1,4 @@
+./sorted.txt
+./next.config.js
+./package-lock.json
+./package.json
